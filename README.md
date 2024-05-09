@@ -22,6 +22,7 @@ Display the total words in the file.
 ```
 Developed by: M THEJESWARAN
 Register no: 212223240168
+
 import sys
 fp=open(sys.argv[1])
 wordcount=0
